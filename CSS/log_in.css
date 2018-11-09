@@ -1,0 +1,48 @@
+.forms{
+	padding: 1em;
+	width: 400px;
+	margin-left: 2em;
+	margin-bottom: 1em;
+	border-radius: 20px;
+	border: 1px solid;
+}
+
+.mainclass2{
+	position: absolute;
+	margin: auto;
+	width: 500px;
+	margin-top: 1em;
+	border: 4px solid;
+	border-radius: 5px;
+	top:150px;
+	left: 500px;
+	color:white;	
+}
+
+.next1{
+	padding-left: 1em;
+	padding-right: 1em;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	margin-left: 400px;
+	margin-bottom: 2em;
+	margin-top: 1em;
+	border-radius: 50px;
+}
+.imgg{
+	background-image: url("key.jpg");
+	background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    
+   -webkit-filter: blur(9px);
+}
+body,html{
+	font:15px/1.5 Arial, Helvetica, sans-serif;
+	color: black;
+	height: 100%;
+  	margin: 0;
+  	
+	
+}

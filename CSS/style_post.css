@@ -1,0 +1,132 @@
+body{
+  font:15px/1.5 Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+}
+
+.topnav a {
+  float: left;
+  font-weight: bold;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 12px 30px;
+  text-decoration: none;
+  font-size: 17px;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+}
+
+.topnav a.active {
+  background-color: #99b3ff;
+}
+
+.main_head{
+  font-size: 28px;
+  padding: 10px;
+  font-family: cursive;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+
+.head{
+  font-size: 18px;
+  padding: 10px;
+  font-family: cursive;
+  font-variant: small-caps;
+  font-weight: bold;
+  color: #99b3ff;
+
+}
+#mproject{
+  background-color: #f4f4f4;
+  margin: 50px auto;
+  padding: 40px;
+  width: 1000px;
+  /*border-bottom: 3px solid #bfbfbf;
+  border-right: 3px solid #bfbfbf;*/
+}
+
+#mproject .fields{
+  padding: 50px;
+}
+#mproject fieldset{
+  background: white;
+  border: 0 none;
+  border-radius: 3px;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+  padding: 20px 30px;
+  margin-bottom: 50px;
+}
+.ip_1{
+  padding: 7px;
+  width: 100%;
+  font-size: 17px;
+  font-family: sans-serif;
+  border: 1px solid #aaaaaa;
+  border-radius: 50px;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2);
+
+}
+.ip_ta{
+  padding: 5px;
+  height:150px;
+  width: 100%;
+  font-size: 17px;
+  font-family: sans-serif;
+  border: 1px solid #aaaaaa;
+  border-radius: 10px;
+  margin-bottom:7px;
+  margin-top: 7px;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.2); 
+}
+
+
+
+
+.container{
+  font-size: 14px;
+  font-weight: 100;
+  font-style: normal;
+  font-family: cursive;
+  padding: 30px;
+}
+
+.button1{
+  float: right;
+  padding: 10px 60px 10px 60px;
+  margin-top: 20px;
+  border-radius: 20px;
+  border-style:hidden;
+  background-color: red;
+  color: white;
+  box-shadow: 0 0 15px 1px rgba(0, 0, 0, 0.4);
+}
+
+.button1:hover {
+  background-color: #ff4d4d;
+  color: white;
+  }
+
+footer{
+  padding: 20px;
+  margin-top: 1000px;
+  color: #ffffff;
+  background-color: black;
+  text-align: center;
+}
+
+

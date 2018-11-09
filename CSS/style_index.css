@@ -1,0 +1,111 @@
+body{
+  font:15px/1.5 Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  /*background: linear-gradient(rgba(26, 26, 26, 0.5), rgba(26, 26, 26, 0.5)), url("../img/bg.jpg");*/
+  background: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+
+}
+
+
+
+/* ----------------------------------------------------------------*/
+.high{
+  font: bold 20px Arial;
+  background-color: #99b3ff;
+  padding: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+
+}
+.container{
+  width: 80%;
+  margin: auto;
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  color: #ffffff;
+  padding-top: 30px;
+  min-height: 70px;
+}
+header a{
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+}
+header li{
+  float: left;
+  display: inline;
+  padding: 0px 20px 0px 20px;
+  margin-left: 10px;
+}
+header #branding{
+  float: left;
+
+}
+header #branding h1{
+  margin: 0;
+}
+header nav{
+  float: right;
+  margin-top: 10px;
+}
+header .highlight{
+  color: #99b3ff;
+  font-weight: bold;
+}
+header a:hover{
+  color: #99b3ff;
+  font-weight:bold;
+}
+
+
+
+footer{
+  padding: 20px;
+  margin-top: 100px;
+  color: #ffffff;
+  background-color: black;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------------*/
